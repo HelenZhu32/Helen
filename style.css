@@ -1,0 +1,18 @@
+body, html{
+    background-color: azure;
+}
+h1{
+    color: plum;
+    font-size: 50ox;
+}
+h2{
+    color: navy;
+    font-size: 15px;
+}
+.blurb{
+    color: greenyellow;
+}
+.main{
+    padding-left: 5vw;
+    padding-top: 35vh;
+}
